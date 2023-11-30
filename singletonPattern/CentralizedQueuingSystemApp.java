@@ -77,6 +77,7 @@ public class CentralizedQueuingSystemApp {
             }
         }
     }
+
     // Method to display the current queue numbers for each Help Desk
     private static void displayCurrentQueueNumbers(HelpDeskStation... helpDesks) {
         System.out.println("---Current Queue Number---");
@@ -92,6 +93,7 @@ public class CentralizedQueuingSystemApp {
         int randomIndex = random.nextInt(helpDesks.length);
         return helpDesks[randomIndex];
     }
+
     // Method to reset the queue number based on user input
     private static void resetQueueWithUserInput(HelpDeskStation helpDesk, Scanner userInput) {
         boolean validChoice = false;
