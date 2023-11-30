@@ -2,7 +2,7 @@ package singletonPattern;
 import java.util.ArrayList;
 import java.util.List;
 
-// Singleton Classs
+// Singleton Class
 public class QueueManagementSystem {
     private static QueueManagementSystem instance;
     private List<HelpDeskStation> helpDeskStations;
