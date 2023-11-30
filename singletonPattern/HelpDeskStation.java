@@ -1,6 +1,6 @@
 package singletonPattern;
 
-// Help Dest Station Class
+// Help Desk Station Class
 public class HelpDeskStation {
     private String name;
     private QueueManagementSystem queuingSystem;
