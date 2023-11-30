@@ -5,9 +5,9 @@ import java.util.Random;
 // Singleton Client Class
 public class CentralizedQueuingSystemApp {
     /*
-    Aeron Red R. Celajes
-    3BSCS-1
-    Lab Assignment 9 Singleton Pattern
+        Aeron Red R. Celajes
+        3BSCS-1
+        Lab Assignment 9 Singleton Pattern
     */
     public static void main(String[] args) {
 
