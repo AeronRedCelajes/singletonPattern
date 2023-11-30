@@ -2,6 +2,7 @@ package singletonPattern;
 import java.util.Scanner;
 import java.util.Random;
 
+// Singleton Client Class
 public class CentralizedQueuingSystemApp {
     /*
     Aeron Red R. Celajes

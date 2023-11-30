@@ -1,5 +1,6 @@
 package singletonPattern;
 
+// Online Monitoring System Class
 public class OnlineMonitoringSystem {
     private QueueManagementSystem queuingSystem;
 
